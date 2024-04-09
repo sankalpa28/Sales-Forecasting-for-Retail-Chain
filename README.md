@@ -1,4 +1,4 @@
-Sales-Forecasting-for-Retail-Chain
+**Sales-Forecasting-for-Retail-Chain**
 
 
 PROBLEM STATEMENT :: Develop a sales forecasting model for a retail chain to predict future sales volumes based on historical data, enabling optimized inventory management and marketing strategies.
